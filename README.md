@@ -8,6 +8,10 @@ You can safely delete this README.md file, or change it for your own project. Pl
 
 ## Codeanywhere Reminders
 
+To run the Django app, type:
+
+`python3 manage.py runserver`
+
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
 `python3 -m http.server`
